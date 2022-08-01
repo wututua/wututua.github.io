@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>wututu-weekly</title>
+  <title>wututu-blog</title>
   <icon>https://blog.wututu.cn/icon.png</icon>
   
   <link href="https://blog.wututu.cn/atom.xml" rel="self"/>
